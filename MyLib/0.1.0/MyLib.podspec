@@ -37,7 +37,7 @@ s.author           = { 'kensla' => '604217454@qq.com' }
 
 #项目地址，这里不支持ssh的地址，验证不通过，只支持HTTP和HTTPS，最好使用HTTPS。
 #这里的s.source须指向存放源代码的链接地址，而不是托管spec文件的repo地址
-s.source           = { :git => 'https://git.coding.net/kensla/MyLib.git', :tag => "0.1.0" }
+s.source           = { :git => 'https://github.com/shuyangxiaobao/MyLib.git', :tag => "0.1.0" }
 
 #s.social_media_url = 'http://weibo.com/kensla'
 
